@@ -15,4 +15,10 @@ Xamarin Forms Catalog View Sample
         ShapeWidth="80" />
 ``` 
 
+# Screenshot
 ![alt text](https://github.com/sermetk/CatalogViewSample/blob/master/CatalogViewSS.png)
+
+
+# More Detail
+https://medium.com/@sermetkose/xamarin-forms-catalog-view-2c81f16509e2
+
